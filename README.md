@@ -11,8 +11,10 @@ All 13 Atari SIO pins are connected from one side to the other and it has a 2.54
 
 The receptacle pins used in this version have a better fit with all SIO cable styles. There are SMD and Through-hole pads on the pcb if you want to add a capacitor for the 5V power line. The board can be configured in one of two ways:
  * Plug and Receptacle: plug connects to any SIO receptacle and has a receptacle for connecting your SIO cable
+   * <img src="images/SIO-Breakout-v2.2-Front.png" alt="Plug & Receptacle" width="200" />
  * Dual Receptacle: requires use of 2 SIO cables for pass through. also doubles as a cable extender
+   * <img src="images/SIO-Breakout-v2.2-DualR-Front.png" alt="Dual Receptacle Front" width="200" /> <img src="images/SIO-Breakout-v2.2-DualR-Back.png" alt="Dual Receptacle Back" width="200" />
 
-BOM:
-SIO Plug Pins: 7-745288-2
-SIO Receptacle Pins: AT60-202-2031
+# Bill Of Materials
+ * SIO Plug Pins: 7-745288-2
+ * SIO Receptacle Pins: AT60-202-2031
