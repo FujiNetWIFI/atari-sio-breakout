@@ -15,6 +15,9 @@ The receptacle pins used in this version have a better fit with all SIO cable st
  * Dual Receptacle: requires use of 2 SIO cables for pass through. also doubles as a cable extender
    * <img src="images/SIO-Breakout-v2.2-DualR-Front.png" alt="Dual Receptacle Front" width="200" /> <img src="images/SIO-Breakout-v2.2-DualR-Back.png" alt="Dual Receptacle Back" width="200" />
 
+# PCB
+<img src="images/SIO-Breakout-v2.2-PCB.png" alt="PCB" width="300" />
+
 # Bill Of Materials
  * SIO Plug Pins: 7-745288-2
  * SIO Receptacle Pins: AT60-202-2031
